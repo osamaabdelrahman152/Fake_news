@@ -15,6 +15,12 @@ An educational project that demonstrates how to build a model to classify news a
 
 ## 🛠 Requirements
 To run the notebook, install the following Python libraries:
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
 
 ```bash
 ## 📊 Dataset
