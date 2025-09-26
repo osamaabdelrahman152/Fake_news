@@ -17,4 +17,8 @@ An educational project that demonstrates how to build a model to classify news a
 To run the notebook, install the following Python libraries:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+## 📊 Dataset
+The dataset is not included in this repository due to file size limits.  
+You can use the following datasets as alternatives:
+- [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)
+- [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
